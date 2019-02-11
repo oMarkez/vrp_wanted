@@ -3,7 +3,7 @@
 # INFO
 This script makes it possible for police officers to want criminals. It all works through the police menu.
 
-#INSTALLATION
+# INSTALLATION
 1. Download this repository
 2. Unzip it into your resource folder
 3. Start it in your server.cfg
